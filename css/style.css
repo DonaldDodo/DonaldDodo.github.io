@@ -6,7 +6,7 @@
 body {
 	color:Black;
 	background-color:white;
-	background-image: url('../images/SomeBackgroundImage.jpg');
+	background-image: url('../images/t%C3%A9l%C3%A9chargement%20(1).jpg');
 	background-attachment: fixed;
 	font-family: 'Times New Roman',serif;
 	font-size: 18px;
@@ -107,13 +107,12 @@ section {
 
 nav {
 	width:100%;
-	padding: 2% 0;
+	padding: 2%;
 	border-bottom: 1px solid #CCC;
 }
 
 nav img {
-	width: 75%;
-	margin:0;
+	width: 40%;
     color:dodgerblue;
 }
 
@@ -136,7 +135,7 @@ nav a:hover {
 }
 
 #projects img {
-	width: 30%;
+	width: 20%;
 	margin: 1%;
 }
 
@@ -165,7 +164,7 @@ nav a:hover {
 
 #about img {
 	margin:1%;
-	width: 23%;
+	width: 19%;
 	float: left;
 }
 
